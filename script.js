@@ -1,4 +1,4 @@
-<script>
+
 const menuItems = document.querySelectorAll('.menu-3 li');
 
 
@@ -17,5 +17,3 @@ menuItems.forEach((item)=>{
 })
 
 
-
-</script>
